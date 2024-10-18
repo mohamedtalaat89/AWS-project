@@ -1,7 +1,8 @@
 # Scalable AWS Infrastructure with Terraform 🚀
 
 This project demonstrates how to build a scalable, highly available, and reliable infrastructure on AWS using Terraform. The infrastructure automatically adjusts to traffic demands, balancing the load across multiple instances while ensuring smooth operations.
-![Automated Photo](Invok-automated.gif)
+![image](https://github.com/user-attachments/assets/89e5f428-f5b3-4c1c-a541-139228c6e068)
+
 
 
 ## 🛠️ Project Overview
