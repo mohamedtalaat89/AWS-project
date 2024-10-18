@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "cloudkode-project-sharara"
+    bucket = "my-tf-test-bucket098098098080"
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
